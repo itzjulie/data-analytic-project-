@@ -1,0 +1,301 @@
+diagnosis_id,admission_id,primary_diagnosis,hypertension,diabetes,cvd,copd,ckd,comorbidity_count
+DX-10001,ADM-10001,Pneumonia,1,0,0,0,0,1
+DX-10002,ADM-10002,Coronary Artery Disease,1,1,0,0,1,3
+DX-10003,ADM-10003,Type 2 Diabetes,0,1,0,0,1,2
+DX-10004,ADM-10004,Asthma,0,1,1,1,1,4
+DX-10005,ADM-10005,COPD,1,0,0,1,0,2
+DX-10006,ADM-10006,COPD,1,0,0,1,0,2
+DX-10007,ADM-10007,Heart Failure,1,0,0,0,0,1
+DX-10008,ADM-10008,Heart Failure,0,0,1,0,0,1
+DX-10009,ADM-10009,Hypertension,0,1,0,0,0,1
+DX-10010,ADM-10010,Type 2 Diabetes,0,1,0,0,0,1
+DX-10011,ADM-10011,Type 2 Diabetes,0,1,0,1,0,2
+DX-10012,ADM-10012,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10013,ADM-10013,Coronary Artery Disease,1,0,0,0,0,1
+DX-10014,ADM-10014,Pneumonia,0,0,0,0,0,0
+DX-10015,ADM-10015,Coronary Artery Disease,1,0,1,0,0,2
+DX-10016,ADM-10016,Asthma,0,0,0,0,0,0
+DX-10017,ADM-10017,Heart Failure,1,0,0,0,0,1
+DX-10018,ADM-10018,Hypertension,0,0,0,0,0,0
+DX-10019,ADM-10019,Hypertension,1,0,0,0,1,2
+DX-10020,ADM-10020,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10021,ADM-10021,Hypertension,1,0,0,0,0,1
+DX-10022,ADM-10022,COPD,0,1,0,1,0,2
+DX-10023,ADM-10023,Hypertension,1,0,0,0,0,1
+DX-10024,ADM-10024,Hypertension,0,0,0,0,0,0
+DX-10025,ADM-10025,Osteoarthritis / Fracture,0,1,0,1,1,3
+DX-10026,ADM-10026,Asthma,0,0,0,0,1,1
+DX-10027,ADM-10027,Heart Failure,0,0,1,1,1,3
+DX-10028,ADM-10028,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10029,ADM-10029,Type 2 Diabetes,1,1,0,0,0,2
+DX-10030,ADM-10030,Gastroenteritis,1,0,0,0,0,1
+DX-10031,ADM-10031,COPD,0,0,0,1,0,1
+DX-10032,ADM-10032,Type 2 Diabetes,0,1,0,0,0,1
+DX-10033,ADM-10033,Osteoarthritis / Fracture,0,0,1,0,0,1
+DX-10034,ADM-10034,Type 2 Diabetes,1,1,0,0,0,2
+DX-10035,ADM-10035,Coronary Artery Disease,1,0,0,1,0,2
+DX-10036,ADM-10036,Heart Failure,1,0,0,0,0,1
+DX-10037,ADM-10037,Pneumonia,1,1,1,0,0,3
+DX-10038,ADM-10038,Heart Failure,1,1,1,0,0,3
+DX-10039,ADM-10039,COPD,0,0,0,1,0,1
+DX-10040,ADM-10040,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10041,ADM-10041,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10042,ADM-10042,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10043,ADM-10043,Pneumonia,1,0,0,0,0,1
+DX-10044,ADM-10044,COPD,1,1,0,1,0,3
+DX-10045,ADM-10045,Heart Failure,1,1,1,0,1,4
+DX-10046,ADM-10046,Pneumonia,0,0,0,0,0,0
+DX-10047,ADM-10047,Hypertension,1,0,0,1,0,2
+DX-10048,ADM-10048,Hypertension,0,0,0,0,0,0
+DX-10049,ADM-10049,Respiratory Failure,0,0,1,0,0,1
+DX-10050,ADM-10050,Osteoarthritis / Fracture,1,1,1,1,0,4
+DX-10051,ADM-10051,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10052,ADM-10052,COPD,0,0,0,1,0,1
+DX-10053,ADM-10053,Hypertension,1,1,0,0,0,2
+DX-10054,ADM-10054,Hypertension,1,0,1,0,0,2
+DX-10055,ADM-10055,Osteoarthritis / Fracture,0,0,1,0,0,1
+DX-10056,ADM-10056,Coronary Artery Disease,1,1,0,0,0,2
+DX-10057,ADM-10057,Heart Failure,1,1,1,0,0,3
+DX-10058,ADM-10058,Gastroenteritis,0,0,0,0,0,0
+DX-10059,ADM-10059,Type 2 Diabetes,0,1,0,0,0,1
+DX-10060,ADM-10060,Heart Failure,1,0,0,0,0,1
+DX-10061,ADM-10061,Heart Failure,1,1,0,0,0,2
+DX-10062,ADM-10062,Hypertension,0,1,0,0,0,1
+DX-10063,ADM-10063,COPD,1,0,0,1,0,2
+DX-10064,ADM-10064,COPD,0,0,0,1,0,1
+DX-10065,ADM-10065,COPD,0,0,0,1,0,1
+DX-10066,ADM-10066,Coronary Artery Disease,1,0,0,0,0,1
+DX-10067,ADM-10067,Heart Failure,0,0,1,0,0,1
+DX-10068,ADM-10068,Hypertension,0,0,0,0,0,0
+DX-10069,ADM-10069,Heart Failure,1,0,0,0,0,1
+DX-10070,ADM-10070,Coronary Artery Disease,1,0,0,0,0,1
+DX-10071,ADM-10071,Type 2 Diabetes,0,1,0,0,0,1
+DX-10072,ADM-10072,Gastroenteritis,1,1,0,0,0,2
+DX-10073,ADM-10073,Type 2 Diabetes,0,1,0,0,0,1
+DX-10074,ADM-10074,COPD,0,0,0,1,0,1
+DX-10075,ADM-10075,Asthma,0,1,0,1,1,3
+DX-10076,ADM-10076,Osteoarthritis / Fracture,0,0,0,0,1,1
+DX-10077,ADM-10077,Heart Failure,1,0,1,0,0,2
+DX-10078,ADM-10078,Osteoarthritis / Fracture,1,0,1,0,1,3
+DX-10079,ADM-10079,Asthma,1,1,1,0,0,3
+DX-10080,ADM-10080,Osteoarthritis / Fracture,1,0,0,1,0,2
+DX-10081,ADM-10081,Respiratory Failure,0,0,1,0,1,2
+DX-10082,ADM-10082,Osteoarthritis / Fracture,1,1,0,1,0,3
+DX-10083,ADM-10083,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10084,ADM-10084,Osteoarthritis / Fracture,1,0,1,0,0,2
+DX-10085,ADM-10085,Asthma,1,0,1,0,0,2
+DX-10086,ADM-10086,Heart Failure,1,0,0,0,0,1
+DX-10087,ADM-10087,Gastroenteritis,1,1,0,1,0,3
+DX-10088,ADM-10088,Coronary Artery Disease,1,0,0,1,0,2
+DX-10089,ADM-10089,Hypertension,0,0,1,0,0,1
+DX-10090,ADM-10090,COPD,0,0,0,1,0,1
+DX-10091,ADM-10091,Hypertension,1,1,0,0,0,2
+DX-10092,ADM-10092,Osteoarthritis / Fracture,0,0,0,1,0,1
+DX-10093,ADM-10093,Osteoarthritis / Fracture,0,0,0,1,0,1
+DX-10094,ADM-10094,Type 2 Diabetes,0,1,0,0,0,1
+DX-10095,ADM-10095,Heart Failure,0,1,1,0,0,2
+DX-10096,ADM-10096,Respiratory Failure,1,0,1,0,0,2
+DX-10097,ADM-10097,COPD,0,0,0,1,0,1
+DX-10098,ADM-10098,Gastroenteritis,1,1,1,0,0,3
+DX-10099,ADM-10099,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10100,ADM-10100,Pneumonia,0,0,0,0,0,0
+DX-10101,ADM-10101,Gastroenteritis,0,0,0,0,0,0
+DX-10102,ADM-10102,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10103,ADM-10103,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10104,ADM-10104,Hypertension,1,0,1,0,0,2
+DX-10105,ADM-10105,Heart Failure,0,1,1,0,0,2
+DX-10106,ADM-10106,Pneumonia,0,0,0,0,0,0
+DX-10107,ADM-10107,Asthma,1,0,1,1,0,3
+DX-10108,ADM-10108,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10109,ADM-10109,Hypertension,1,0,0,0,0,1
+DX-10110,ADM-10110,Severe Sepsis,1,1,1,0,0,3
+DX-10111,ADM-10111,Gastroenteritis,1,0,0,0,0,1
+DX-10112,ADM-10112,Coronary Artery Disease,1,0,1,1,0,3
+DX-10113,ADM-10113,Osteoarthritis / Fracture,0,1,0,0,0,1
+DX-10114,ADM-10114,Asthma,1,0,0,0,1,2
+DX-10115,ADM-10115,Heart Failure,1,0,0,0,0,1
+DX-10116,ADM-10116,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10117,ADM-10117,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10118,ADM-10118,Osteoarthritis / Fracture,1,1,0,0,0,2
+DX-10119,ADM-10119,COPD,0,0,0,1,0,1
+DX-10120,ADM-10120,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10121,ADM-10121,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10122,ADM-10122,Asthma,0,0,0,0,0,0
+DX-10123,ADM-10123,Hypertension,0,0,0,0,0,0
+DX-10124,ADM-10124,Gastroenteritis,0,0,0,0,0,0
+DX-10125,ADM-10125,Hypertension,1,0,0,0,0,1
+DX-10126,ADM-10126,Type 2 Diabetes,0,1,0,1,0,2
+DX-10127,ADM-10127,Respiratory Failure,0,1,1,0,0,2
+DX-10128,ADM-10128,Hypertension,0,0,0,0,0,0
+DX-10129,ADM-10129,Asthma,0,1,0,0,0,1
+DX-10130,ADM-10130,Gastroenteritis,0,0,1,0,0,1
+DX-10131,ADM-10131,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10132,ADM-10132,COPD,1,0,0,1,0,2
+DX-10133,ADM-10133,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10134,ADM-10134,Hypertension,1,1,0,1,0,3
+DX-10135,ADM-10135,Type 2 Diabetes,0,1,0,0,0,1
+DX-10136,ADM-10136,Heart Failure,1,0,1,1,0,3
+DX-10137,ADM-10137,Osteoarthritis / Fracture,1,0,0,1,0,2
+DX-10138,ADM-10138,Hypertension,0,0,0,0,0,0
+DX-10139,ADM-10139,Gastroenteritis,1,0,1,0,0,2
+DX-10140,ADM-10140,Osteoarthritis / Fracture,1,1,1,1,0,4
+DX-10141,ADM-10141,Hypertension,0,0,0,0,0,0
+DX-10142,ADM-10142,Osteoarthritis / Fracture,0,0,1,0,0,1
+DX-10143,ADM-10143,Asthma,0,0,1,0,0,1
+DX-10144,ADM-10144,Severe Sepsis,0,0,1,0,0,1
+DX-10145,ADM-10145,Hypertension,1,1,1,0,0,3
+DX-10146,ADM-10146,Osteoarthritis / Fracture,0,1,0,0,0,1
+DX-10147,ADM-10147,Hypertension,1,0,1,0,0,2
+DX-10148,ADM-10148,Gastroenteritis,0,0,1,0,0,1
+DX-10149,ADM-10149,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10150,ADM-10150,Hypertension,1,0,0,0,0,1
+DX-10151,ADM-10151,Gastroenteritis,0,0,0,0,0,0
+DX-10152,ADM-10152,Osteoarthritis / Fracture,0,1,0,0,0,1
+DX-10153,ADM-10153,Osteoarthritis / Fracture,0,0,0,1,0,1
+DX-10154,ADM-10154,Coronary Artery Disease,1,0,1,1,0,3
+DX-10155,ADM-10155,Hypertension,1,0,0,0,0,1
+DX-10156,ADM-10156,Respiratory Failure,0,0,1,0,0,1
+DX-10157,ADM-10157,Asthma,1,0,0,0,0,1
+DX-10158,ADM-10158,Type 2 Diabetes,1,1,0,0,0,2
+DX-10159,ADM-10159,Coronary Artery Disease,1,0,0,0,0,1
+DX-10160,ADM-10160,Hypertension,1,0,0,0,0,1
+DX-10161,ADM-10161,Hypertension,1,0,0,0,0,1
+DX-10162,ADM-10162,Type 2 Diabetes,1,1,0,0,0,2
+DX-10163,ADM-10163,Heart Failure,1,1,0,0,0,2
+DX-10164,ADM-10164,Severe Sepsis,1,1,1,0,0,3
+DX-10165,ADM-10165,Hypertension,0,1,0,0,0,1
+DX-10166,ADM-10166,Coronary Artery Disease,1,1,0,0,0,2
+DX-10167,ADM-10167,Coronary Artery Disease,1,0,0,1,0,2
+DX-10168,ADM-10168,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10169,ADM-10169,COPD,0,0,0,1,0,1
+DX-10170,ADM-10170,COPD,0,0,0,1,0,1
+DX-10171,ADM-10171,Osteoarthritis / Fracture,0,0,1,0,0,1
+DX-10172,ADM-10172,Asthma,1,1,0,0,0,2
+DX-10173,ADM-10173,Heart Failure,1,0,1,0,1,3
+DX-10174,ADM-10174,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10175,ADM-10175,Type 2 Diabetes,0,1,0,0,0,1
+DX-10176,ADM-10176,Osteoarthritis / Fracture,0,0,1,0,0,1
+DX-10177,ADM-10177,Heart Failure,1,0,0,0,0,1
+DX-10178,ADM-10178,Asthma,0,0,0,1,1,2
+DX-10179,ADM-10179,Hypertension,0,0,0,0,1,1
+DX-10180,ADM-10180,Hypertension,0,0,0,0,0,0
+DX-10181,ADM-10181,Type 2 Diabetes,0,1,0,0,0,1
+DX-10182,ADM-10182,COPD,0,0,0,1,0,1
+DX-10183,ADM-10183,Hypertension,1,1,1,0,0,3
+DX-10184,ADM-10184,Hypertension,0,0,0,1,0,1
+DX-10185,ADM-10185,Hypertension,1,1,0,0,0,2
+DX-10186,ADM-10186,Asthma,0,0,0,0,0,0
+DX-10187,ADM-10187,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10188,ADM-10188,Hypertension,0,0,0,0,0,0
+DX-10189,ADM-10189,Coronary Artery Disease,1,1,0,0,0,2
+DX-10190,ADM-10190,Hypertension,1,0,1,1,0,3
+DX-10191,ADM-10191,Heart Failure,1,1,0,0,0,2
+DX-10192,ADM-10192,Pneumonia,0,1,1,0,1,3
+DX-10193,ADM-10193,Pneumonia,1,0,0,1,0,2
+DX-10194,ADM-10194,Asthma,0,0,0,0,0,0
+DX-10195,ADM-10195,Hypertension,1,1,1,0,0,3
+DX-10196,ADM-10196,COPD,0,0,0,1,0,1
+DX-10197,ADM-10197,Type 2 Diabetes,1,1,0,0,0,2
+DX-10198,ADM-10198,Pneumonia,1,0,0,0,0,1
+DX-10199,ADM-10199,Heart Failure,0,1,1,0,0,2
+DX-10200,ADM-10200,Hypertension,0,0,0,0,0,0
+DX-10201,ADM-10201,Heart Failure,1,0,1,0,0,2
+DX-10202,ADM-10202,Coronary Artery Disease,1,1,1,1,0,4
+DX-10203,ADM-10203,COPD,0,0,1,1,0,2
+DX-10204,ADM-10204,Pneumonia,0,1,1,1,0,3
+DX-10205,ADM-10205,Gastroenteritis,0,0,0,1,0,1
+DX-10206,ADM-10206,Pneumonia,1,0,1,0,0,2
+DX-10207,ADM-10207,Severe Sepsis,0,0,1,0,0,1
+DX-10208,ADM-10208,Heart Failure,1,1,0,1,1,4
+DX-10209,ADM-10209,Hypertension,1,1,0,1,1,4
+DX-10210,ADM-10210,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10211,ADM-10211,Hypertension,1,1,0,0,1,3
+DX-10212,ADM-10212,Asthma,1,0,1,0,1,3
+DX-10213,ADM-10213,Gastroenteritis,1,0,1,0,0,2
+DX-10214,ADM-10214,Heart Failure,1,0,0,0,0,1
+DX-10215,ADM-10215,Respiratory Failure,1,0,1,0,0,2
+DX-10216,ADM-10216,Pneumonia,1,1,1,0,1,4
+DX-10217,ADM-10217,Hypertension,1,0,0,0,0,1
+DX-10218,ADM-10218,Type 2 Diabetes,0,1,0,0,0,1
+DX-10219,ADM-10219,Type 2 Diabetes,1,1,1,0,0,3
+DX-10220,ADM-10220,Osteoarthritis / Fracture,0,0,0,0,1,1
+DX-10221,ADM-10221,Coronary Artery Disease,1,0,0,0,0,1
+DX-10222,ADM-10222,Heart Failure,1,0,0,0,0,1
+DX-10223,ADM-10223,Gastroenteritis,0,0,0,0,0,0
+DX-10224,ADM-10224,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10225,ADM-10225,Severe Sepsis,1,0,1,0,1,3
+DX-10226,ADM-10226,Type 2 Diabetes,0,1,0,1,0,2
+DX-10227,ADM-10227,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10228,ADM-10228,Hypertension,0,0,0,0,0,0
+DX-10229,ADM-10229,Type 2 Diabetes,0,1,0,0,0,1
+DX-10230,ADM-10230,Hypertension,1,0,0,0,0,1
+DX-10231,ADM-10231,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10232,ADM-10232,COPD,1,0,1,1,1,4
+DX-10233,ADM-10233,Severe Sepsis,1,1,1,0,0,3
+DX-10234,ADM-10234,Hypertension,1,1,0,0,0,2
+DX-10235,ADM-10235,COPD,0,0,1,1,0,2
+DX-10236,ADM-10236,Gastroenteritis,1,0,0,0,1,2
+DX-10237,ADM-10237,Asthma,0,0,0,1,0,1
+DX-10238,ADM-10238,COPD,0,0,0,1,0,1
+DX-10239,ADM-10239,Heart Failure,1,1,0,0,0,2
+DX-10240,ADM-10240,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10241,ADM-10241,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10242,ADM-10242,Osteoarthritis / Fracture,0,0,0,0,1,1
+DX-10243,ADM-10243,Type 2 Diabetes,1,1,1,1,0,4
+DX-10244,ADM-10244,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10245,ADM-10245,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10246,ADM-10246,Hypertension,1,0,0,0,0,1
+DX-10247,ADM-10247,Asthma,1,0,0,0,0,1
+DX-10248,ADM-10248,Heart Failure,1,0,1,0,0,2
+DX-10249,ADM-10249,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10250,ADM-10250,Hypertension,0,0,0,0,0,0
+DX-10251,ADM-10251,Heart Failure,1,1,0,1,0,3
+DX-10252,ADM-10252,Hypertension,0,0,1,0,0,1
+DX-10253,ADM-10253,Respiratory Failure,1,0,1,0,0,2
+DX-10254,ADM-10254,Heart Failure,1,0,1,0,0,2
+DX-10255,ADM-10255,Coronary Artery Disease,1,0,0,0,0,1
+DX-10256,ADM-10256,Respiratory Failure,0,1,1,0,0,2
+DX-10257,ADM-10257,Pneumonia,0,0,0,0,0,0
+DX-10258,ADM-10258,COPD,1,0,1,1,0,3
+DX-10259,ADM-10259,Asthma,0,0,0,0,0,0
+DX-10260,ADM-10260,Asthma,0,1,0,0,1,2
+DX-10261,ADM-10261,Pneumonia,0,1,0,1,1,3
+DX-10262,ADM-10262,Coronary Artery Disease,1,0,0,0,0,1
+DX-10263,ADM-10263,Hypertension,1,0,0,1,0,2
+DX-10264,ADM-10264,COPD,1,0,0,1,0,2
+DX-10265,ADM-10265,Hypertension,1,0,0,0,0,1
+DX-10266,ADM-10266,Coronary Artery Disease,1,0,0,0,0,1
+DX-10267,ADM-10267,Heart Failure,1,1,1,1,0,4
+DX-10268,ADM-10268,Pneumonia,1,0,0,0,0,1
+DX-10269,ADM-10269,Coronary Artery Disease,1,0,1,0,0,2
+DX-10270,ADM-10270,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10271,ADM-10271,Type 2 Diabetes,0,1,0,0,0,1
+DX-10272,ADM-10272,Osteoarthritis / Fracture,1,0,0,0,0,1
+DX-10273,ADM-10273,Osteoarthritis / Fracture,0,0,0,0,0,0
+DX-10274,ADM-10274,Pneumonia,1,0,1,1,0,3
+DX-10275,ADM-10275,Osteoarthritis / Fracture,0,1,0,0,0,1
+DX-10276,ADM-10276,Coronary Artery Disease,1,0,0,0,0,1
+DX-10277,ADM-10277,Heart Failure,1,1,0,0,1,3
+DX-10278,ADM-10278,Severe Sepsis,0,0,1,0,0,1
+DX-10279,ADM-10279,Hypertension,1,0,0,0,1,2
+DX-10280,ADM-10280,COPD,1,0,0,1,1,3
+DX-10281,ADM-10281,Osteoarthritis / Fracture,1,1,0,0,0,2
+DX-10282,ADM-10282,Osteoarthritis / Fracture,1,1,0,1,0,3
+DX-10283,ADM-10283,Gastroenteritis,0,0,1,0,0,1
+DX-10284,ADM-10284,Type 2 Diabetes,1,1,1,0,0,3
+DX-10285,ADM-10285,Coronary Artery Disease,1,0,0,0,0,1
+DX-10286,ADM-10286,Type 2 Diabetes,0,1,0,0,0,1
+DX-10287,ADM-10287,Type 2 Diabetes,0,1,0,0,0,1
+DX-10288,ADM-10288,Asthma,0,0,1,0,0,1
+DX-10289,ADM-10289,Asthma,0,1,0,0,0,1
+DX-10290,ADM-10290,COPD,1,0,0,1,0,2
+DX-10291,ADM-10291,COPD,1,0,0,1,0,2
+DX-10292,ADM-10292,Heart Failure,0,0,1,0,0,1
+DX-10293,ADM-10293,Heart Failure,1,0,0,0,0,1
+DX-10294,ADM-10294,Coronary Artery Disease,1,0,0,0,0,1
+DX-10295,ADM-10295,Pneumonia,0,0,0,0,0,0
+DX-10296,ADM-10296,Asthma,0,0,0,0,0,0
+DX-10297,ADM-10297,Hypertension,1,1,0,0,0,2
+DX-10298,ADM-10298,Type 2 Diabetes,1,1,0,0,0,2
+DX-10299,ADM-10299,Hypertension,0,0,0,0,0,0
+DX-10300,ADM-10300,Osteoarthritis / Fracture,0,1,0,0,0,1

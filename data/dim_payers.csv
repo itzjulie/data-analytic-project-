@@ -1,0 +1,6 @@
+payer_id,payer_name,payer_tier,avg_reimbursement_rate,standard_copay
+PAY-01,Ayushman Bharat PM-JAY,Medicaid,0.9,0.0
+PAY-02,CGHS Federal Healthcare,Medicare,0.85,150.0
+PAY-03,Star Health Comprehensive,Private HMO,0.8,500.0
+PAY-04,ICICI Lombard Health Shield,Private PPO,0.75,750.0
+PAY-05,Self-Pay / Cash Patient,Self-Pay,0.0,0.0
