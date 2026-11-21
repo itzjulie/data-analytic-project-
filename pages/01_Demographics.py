@@ -17,7 +17,7 @@ from src.analytics.charts import (
 from src.ui.components import render_tailwind_header, render_kpi_card
 from src.ui.filters import render_sidebar_filters
 
-st.set_page_config(page_title="Demographics | Project 66", page_icon="👥", layout="wide")
+st.set_page_config(page_title="Demographics | Project P104", page_icon="👥", layout="wide")
 
 df_full = load_analytical_data()
 df = render_sidebar_filters(df_full)
@@ -108,4 +108,4 @@ with col_d:
         st.info("Blood group data not available.")
 
 st.markdown("---")
-st.caption("🎓 Project 66 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Gunjan Agrawal")
+st.caption("🎓 Project P104 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Mr. Dinesh")

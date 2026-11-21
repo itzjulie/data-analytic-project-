@@ -15,7 +15,7 @@ from src.data.validator import validate_analytical_schema
 from src.ui.components import render_tailwind_header
 from src.ui.filters import render_sidebar_filters
 
-st.set_page_config(page_title="Data Quality | Project 66", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="Data Quality | Project P104", page_icon="🛡️", layout="wide")
 
 df_full = load_analytical_data()
 df = render_sidebar_filters(df_full)
@@ -141,12 +141,12 @@ with col_info1:
 | Field | Value |
 |-------|-------|
 | **Project** | Patient Demographic Analysis |
-| **Project No.** | Project 66 |
+| **Project No.** | Project P104 |
 | **Roll No.** | 2503201450068 |
 | **Candidate** | Juli |
 | **Programme** | MCA 2nd Year — Data Analytics |
 | **Institution** | ABES Engineering College |
-| **Mentor** | Gunjan Agrawal |
+| **Mentor** | Mr. Dinesh |
 | **Submission** | Academic Year 2024-25 |
 """)
 
@@ -196,4 +196,4 @@ coverage = pd.DataFrame({
 st.dataframe(coverage, use_container_width=True, hide_index=True)
 
 st.markdown("---")
-st.caption("🎓 Project 66 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Gunjan Agrawal")
+st.caption("🎓 Project P104 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Mr. Dinesh")

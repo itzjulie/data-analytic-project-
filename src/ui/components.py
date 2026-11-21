@@ -14,7 +14,7 @@ def render_tailwind_header(title: str, subtitle: str, badge_text: str = "Live An
                         <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-500/20 text-blue-300 border border-blue-400/30">
                             {badge_text}
                         </span>
-                        <span class="text-xs text-slate-400 font-mono">Project 66 · ABES MCA</span>
+                        <span class="text-xs text-slate-400 font-mono">Project P104 · ABES MCA</span>
                     </div>
                     <h1 class="text-2xl font-black tracking-tight text-white mt-1.5">{title}</h1>
                     <p class="text-xs text-slate-300 mt-0.5">{subtitle}</p>

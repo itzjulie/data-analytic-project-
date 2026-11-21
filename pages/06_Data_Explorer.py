@@ -13,7 +13,7 @@ from src.data.loader import load_analytical_data
 from src.ui.components import render_tailwind_header
 from src.ui.filters import render_sidebar_filters
 
-st.set_page_config(page_title="Data Explorer | Project 66", page_icon="🔎", layout="wide")
+st.set_page_config(page_title="Data Explorer | Project P104", page_icon="🔎", layout="wide")
 
 df_full = load_analytical_data()
 df = render_sidebar_filters(df_full)
@@ -113,4 +113,4 @@ else:
     st.info("No numeric columns in current column selection.")
 
 st.markdown("---")
-st.caption("🎓 Project 66 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Gunjan Agrawal")
+st.caption("🎓 Project P104 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Mr. Dinesh")

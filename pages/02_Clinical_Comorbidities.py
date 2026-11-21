@@ -15,7 +15,7 @@ from src.analytics.charts import plot_comorbidity_heatmap, NAVY, SKY_BLUE, ROSE,
 from src.ui.components import render_tailwind_header, render_kpi_card, render_alert_box
 from src.ui.filters import render_sidebar_filters
 
-st.set_page_config(page_title="Comorbidities | Project 66", page_icon="🫀", layout="wide")
+st.set_page_config(page_title="Comorbidities | Project P104", page_icon="🫀", layout="wide")
 
 df_full = load_analytical_data()
 df = render_sidebar_filters(df_full)
@@ -153,4 +153,4 @@ else:
     st.warning("Insufficient cohort size for statistical testing. Broaden the filters.")
 
 st.markdown("---")
-st.caption("🎓 Project 66 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Gunjan Agrawal")
+st.caption("🎓 Project P104 | Roll No: 2503201450068 | ABES Engineering College | Mentor: Mr. Dinesh")

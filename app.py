@@ -1,7 +1,7 @@
 """
 BUILD-06 | app.py — Main landing page (Overview / KPI Dashboard)
-Patient Demographic Analysis · Project 66 · ABES MCA 2024-25
-Roll No: 2503201450068 | Mentor: Gunjan Agrawal
+Patient Demographic Analysis · Project P104 · ABES MCA 2024-25
+Roll No: 2503201450068 | Mentor: Mr. Dinesh
 """
 import sys
 import os
@@ -18,7 +18,7 @@ from src.ui.filters import render_sidebar_filters
 
 # ── Page Configuration ───────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Patient Demographic Analysis · Project 66",
+    page_title="Patient Demographic Analysis · Project P104",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -36,7 +36,7 @@ df = render_sidebar_filters(df_full)
 # ── Tailwind Header ──────────────────────────────────────────────────────────
 render_tailwind_header(
     title="🏥 Patient Demographic Analysis",
-    subtitle="Overview Dashboard · Healthcare Cohort Intelligence · ABES Engineering College · MCA Capstone Project 66",
+    subtitle="Overview Dashboard · Healthcare Cohort Intelligence · ABES Engineering College · MCA Capstone Project P104",
     badge_text="Overview"
 )
 
@@ -141,7 +141,7 @@ else:
 # ── Footer ───────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.caption(
-    "🎓 **Project 66 — Patient Demographic Analysis** | "
+    "🎓 **Project P104 — Patient Demographic Analysis** | "
     "Roll No: 2503201450068 | ABES Engineering College | MCA 2nd Year | "
-    "Mentor: Gunjan Agrawal | Data: Synthetic (Seed=42, NCR India)"
+    "Mentor: Mr. Dinesh | Data: Synthetic (Seed=42, NCR India)"
 )
