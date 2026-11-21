@@ -1,3 +1,0 @@
-# System-level packages for Streamlit Community Cloud (Ubuntu/Debian apt).
-# SQLite3 is pre-installed on Cloud runners — no extra package needed.
-# Add entries here only if a pip package needs a system library.
